@@ -93,3 +93,6 @@
 | vowel          | 元音           |
 | wage           | 工资           |
 | wildfire       | 野火           |
+| effort         | 努力，成就，作用力    |
+| thrust         | 推，抢使接受       |
+|                |              |
