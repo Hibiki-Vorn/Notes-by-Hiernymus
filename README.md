@@ -7,5 +7,7 @@
  - IRREGULAR [[TODOLIST]]
 - Word list [[WordsList]]
 - English lessons Notes
- 1. Lesson 1 [[Lesson-1]]
+ 1. Lesson 1 [[English-Lesson-1]]
+- Physics lessons Noted
+ 1. Lesson 1 [[Physics-Lesson-1]]
  

@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Force.md",
+                "file": "Physics-Lesson-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Force"
+              "title": "Physics-Lesson-1"
             }
           }
         ],
@@ -194,7 +194,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "WordList/WordsList.md",
+            "file": "Physics-Lesson-1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -249,14 +249,23 @@
   },
   "active": "575947d4d5c372f3",
   "lastOpenFiles": [
-    "Self-introduction.md",
-    "Force.md",
+    "Screenshot_20250122-204522.png",
+    "Screenshot_20250122-204213.png",
+    "Screenshot_20250122-203736.png",
+    "Screenshot_20250122-203427.png",
+    "Screenshot_20250122-190104.png",
+    "Physics-Lesson-1.md",
+    "Screenshot_20250122-190104..md",
+    "Screenshot_20250122-191151.png",
     "README.md",
+    "Screenshot_20250122-191144.png",
+    "Screenshot_20250122-190552.png",
+    "English-Lesson-1.md",
+    "Self-introduction.md",
     "WordsList.md",
     "DAIRY.md",
     "TODOLIST.md",
     "TODOLIST-everyday.md",
-    "Lesson-1.md",
     "Untitled",
     "SaltNote/AutoBackups/20250120112117-0.mxb",
     "SaltNote/AutoBackups",
