@@ -23,11 +23,13 @@
  - same magnitude
  - opposite direction
 
-| mass     | vs  | weight                        |
-| -------- | --- | ----------------------------- |
-| Scalar   |     | vector                        |
-| kg       |     | N                             |
-| constant |     | change by gravitational field |
+***mass vs height***
+
+| mass     | weight                        |
+| -------- | ----------------------------- |
+| Scalar   | vector                        |
+| kg       | N                             |
+| constant | change by gravitational field |
 
  >$w = mg$
  >$g = 10N/kg$***(field strength)***
@@ -40,6 +42,6 @@
 ***Air resistance***
 1. Velocity
 2. Area
-  **free fall**
+**free fall**
   ![](Screenshot_20250122-204213.png)
   ![](Screenshot_20250122-204522.png)
