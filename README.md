@@ -1,13 +1,12 @@
 >***This is the contents of my notes.*** (Obsidian)
 ---
-- Self-introduction [[Self-introduction]]
-- My diary [[DAIRY]]
+- Self-introduction [skip](./articles/Self-introduction.md)
+- My diary [skip](./articles/DAIRY.md)
 - Todo list
-    - Everyday [[TODOLIST-everyday]]
-    - IRREGULAR [[TODOLIST]]
+    - Everyday [skip](./articles/TODOLIST-everyday.md)
+    - IRREGULAR [skip](./articles/TODOLIST.md)
 - English lessons Notes
-    1. Word list [[WordsList]]
-    2. Lesson 1 [[English-Lesson-1]]
+    1. Word list [skip](./articles/WordsList.md)
+    2. Lesson 1 [skip](./articles/English-Lesson-1.md)
 - Physics lessons Noted
-    1. Outline of Physics [[PhysicsOutline]]
- 
+    1. Outline of Physics [skip](./articles/PhysicsOutline.md)

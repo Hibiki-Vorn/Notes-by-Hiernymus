@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/WordsList.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WordsList"
+              "title": "README"
             }
           }
         ]
@@ -150,17 +150,20 @@
   },
   "active": "3c73fc1cadc68671",
   "lastOpenFiles": [
-    "README.md",
-    "articles/WordsList.md",
-    "articles/Physics-Lesson-1.md",
     "articles/PhysicsOutline.md",
-    "articles/Self-introduction.md",
-    "articles/TODOLIST-everyday.md",
-    "articles/DAIRY.md",
+    "articles/Physics-Lesson-1.md",
+    "README.md",
     "articles/English-Lesson-1.md",
+    "articles/WordsList.md",
+    "articles/TODOLIST-everyday.md",
+    "articles/TODOLIST.md",
+    "articles/DAIRY.md",
+    "articles/Self-introduction.md",
+    "(./articles/Self-introduction.md",
+    "(.",
+    "(./articles",
     "articles",
     "img",
-    "articles/TODOLIST.md",
     "img/Screenshot_20250122-204522.png",
     "img/Screenshot_20250122-204213.png",
     "img/Screenshot_20250122-203736.png",
