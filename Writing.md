@@ -1,8 +1,9 @@
 - To: principal@francescoschool.edu
 - From: cryptomail4deepweb@proton.me
+
 - subject: <u>Reduce our 'throw away'</u>
 
-Date:03/02/2025
+- Date:03/02/2025
 
 Hello,my Principal:
 I hope this email finds you well.My name is Eburotiko.I am the president of the student council of Francesco School.Which project I have chosen is "A pop-up repair and share centre".Nowadays,most of people became more rich than ever.Therefore, many people are not focus on money.And then,people are pursue a convenient life.So there is a 'throw-away' culture.The 'throw-away' culture brought convenience but it also brought wast and rubbish.I am not very rich.So I should save some money.Many 'throw-away' things will noly make my family poor.
@@ -19,6 +20,4 @@ This project can make the neighbourhood has less rubbish and make it great.
 
 I hope you would take the time to consider my poposal.Thank you for taking the time to read through my email.
 
-Thank you.
-Your sincerely
-Eburotiko
+Thank you.<br>Your sincerely<br>Eburotiko<br>
