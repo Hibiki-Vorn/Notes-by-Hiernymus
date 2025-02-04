@@ -1,6 +1,6 @@
-To: principal@francescoschool.edu
-From: cryptomail4deepweb@proton.me
-subject: <u>Reduce our 'throw away'</u>
+- To: principal@francescoschool.edu
+- From: cryptomail4deepweb@proton.me
+- subject: <u>Reduce our 'throw away'</u>
 
 Date:03/02/2025
 
@@ -18,3 +18,7 @@ This project can make the neighbourhood has less rubbish and make it great.
 
 
 I hope you would take the time to consider my poposal.Thank you for taking the time to read through my email.
+
+Thank you.
+Your sincerely
+Eburotiko
