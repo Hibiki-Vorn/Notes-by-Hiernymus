@@ -149,3 +149,10 @@
 | vowel          | 元音                       | Null          |
 | wage           | 工资，报酬，报应                 | #工资           |
 | wildfire       | 野火                       | #野火           |
+| iconic         | 标志性，象征的，偶像的              |               |
+| accommodate    | 容纳                       |               |
+| boast          | 自夸，拥有什么然后感到自豪            |               |
+| dusk           | 黄昏                       |               |
+| admire         | 欣赏，钦佩，赞赏，仰慕              |               |
+| splendour      | 壮丽，华丽，豪华，雄伟              |               |
+|                |                          |               |
