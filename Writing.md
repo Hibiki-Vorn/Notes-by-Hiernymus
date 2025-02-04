@@ -5,7 +5,7 @@
 
 - Date:03/02/2025
 
-Hello,my Principal:
+Hello,my Principal:<br>
 I hope this email finds you well.My name is Eburotiko.I am the president of the student council of Francesco School.Which project I have chosen is "A pop-up repair and share centre".Nowadays,most of people became more rich than ever.Therefore, many people are not focus on money.And then,people are pursue a convenient life.So there is a 'throw-away' culture.The 'throw-away' culture brought convenience but it also brought wast and rubbish.I am not very rich.So I should save some money.Many 'throw-away' things will noly make my family poor.
 
 
