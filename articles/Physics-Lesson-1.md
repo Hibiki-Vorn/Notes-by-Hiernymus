@@ -1,8 +1,8 @@
 - 运动
     - 力
-		- 杠杆
-		- 压强
-		- 能量
+		- 杠杆[skip](Physics-Lesson-2.1.md)
+		- 压强[skip](Physics-Lesson-2.2.md)
+		- 能量[skip](Physics-Lesson-2.3.md)
 
 | Scalar标量   | Vector矢量/向量     |
 | ---------- | --------------- |
