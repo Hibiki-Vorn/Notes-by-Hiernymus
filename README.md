@@ -2,6 +2,7 @@
 ---
 - Self-introduction [skip](./articles/Self-introduction.md)
 - My diary [skip](./articles/DAIRY.md)
+- O-Level Outline [skip](./articles/Test-outline.md)
 - Todo list
     - Everyday [skip](./articles/TODOLIST-everyday.md)
     - IRREGULAR [skip](./articles/TODOLIST.md)

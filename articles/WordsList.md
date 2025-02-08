@@ -31,7 +31,6 @@
 | defective      | 有问题的，有缺陷的                | #有缺陷的         |
 | deficient      | 缺乏的，有缺陷的                 | #有缺陷的         |
 | deft           | 灵巧的，机敏的，敏捷熟练的            | #灵巧的          |
-| demand         | 需求                       | #需求           |
 | demand         | 需要，需求，强烈要求               | #需求           |
 | deployment     | 部署,调动，有效利用               | #调动           |
 | designation    | 职位                       | #职位           |
@@ -64,8 +63,8 @@
 | granite        | 花岗岩，冷酷无情                 |               |
 | hireling       | 雇员，被雇佣的                  | #雇员           |
 | hug            | 拥抱，抱住，紧靠，紧挨              | #拥抱           |
-| impress        | 印象                       |               |
-| incorporated   | 合成一体的                    |               |
+| impress        | 印象                       | Null          |
+| incorporated   | 合成一体的                    | Null          |
 | incredible     | 极好，非常好                   |               |
 | ingenious      | 灵巧的，精巧的，巧妙的，独创性的         | #灵巧的          |
 | intertwine     | 缠绕                       |               |
@@ -155,4 +154,3 @@
 | dusk           | 黄昏                       |               |
 | admire         | 欣赏，钦佩，赞赏，仰慕              |               |
 | splendour      | 壮丽，华丽，豪华，雄伟              |               |
-|                |                          |               |
