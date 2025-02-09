@@ -5,10 +5,21 @@
 	2. She won't accept advice from anyone.她不会接受任何人的忠告。
 	3. She's decided not to accept the job.她决定不接受这项工作。
 3. Synonym
-	1. receive
-	2. approve
-	3. embrace
-	4. admit
-	5. acknowledge
-	6. endorse
-	7. tolerate
+	1. receive 接受
+	2. approve 赞成
+	3. embrace 接受
+	4. admit 承认
+	5. acknowledge 承认
+	6. endorse 赞成
+	7. tolerate 容许
+4. Antonym
+	1. reject 拒绝
+	2. refuse 拒绝，回绝
+	3. decline 谢绝，婉拒
+	4. deny 否认，拒绝
+	5. oppose 反对，对抗
+	6. resist 抵制，反抗
+	7. disapprove 不赞成，反对
+	8. disallow 不允许，禁止
+	9. exclude 排除，拒绝接纳
+	10. repudiate 否认，拒绝接受

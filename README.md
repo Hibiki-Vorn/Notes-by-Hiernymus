@@ -7,7 +7,7 @@
     - Everyday [skip](./articles/TODOLIST-everyday.md)
     - IRREGULAR [skip](./articles/TODOLIST.md)
 - English lessons Notes
-    1. Word list [skip](./articles/WordsList.md)
+    1. Word list [skip](./articles/Word-List.md)
     2. Lesson 1 [skip](./articles/English-Lesson-1.md)
 - Physics lessons Noted
     1. Outline of Physics [skip](./articles/PhysicsOutline.md)
