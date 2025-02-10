@@ -6,12 +6,16 @@
 	2. It is a purely academic question.这是一个纯理论问题。
 	3. Their academic standards are high.他们的学术水平很高。
 3. Synonym
-	1. scholarly 学术的，博学的 
-	2. educational 教育的，有教育意义的 
-	3. intellectual 智力的，知识分子的 
-	4. pedagogical 教学的，教育学的 
-	5. learned 有学问的，博学的
-	6. studious 用功的，勤奋好学的 
-	7. erudite 博学的，有学识的
-	8. bookish 好读书的，书呆子气的 
-	9. theoretical 理论的，理论上的
+	1. scholarly 学术的 
+	2. educational 教育的 
+	3. intellectual 智力的 
+	4. pedagogical 教学的
+	5. learned 有学问的
+	6. studious 用功的 
+	7. erudite 博学的
+	8. bookish 好读书的 
+	9. theoretical 理论的
+4. Anotonym
+	1. practical 实际的
+	2. vocational 职业的
+	3. applied 应用的

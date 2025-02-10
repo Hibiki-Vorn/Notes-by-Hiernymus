@@ -10,4 +10,12 @@
 	3. imbibe
 	4. digest
 	5. sponge
+4. Anotonym
+	1. reject 拒绝
+	2. exclude 排除
+	3. emit 发出
+	4. exude流出
+	5. disperse 分散
+	6. scatter 散开
+	7. lose 失去
 	

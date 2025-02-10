@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "words/accept.md",
+                "file": "words/achievement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "accept"
+              "title": "achievement"
             }
           }
         ],
@@ -195,13 +195,14 @@
   },
   "active": "f79ab10e2c362cc3",
   "lastOpenFiles": [
-    "words/academic.md",
-    "words/accept.md",
-    "words/accessible.md",
     "words/accomplishment.md",
+    "words/achievement.md",
+    "words/academic.md",
+    "words/adopt.md",
+    "words/accessible.md",
+    "words/accept.md",
     "words/absorb.md",
     "words/alongside.md",
-    "words/achievement.md",
     "articles/Word-List.md",
     "README.md",
     "articles/Physics-Lesson-2.2.md",
