@@ -8,7 +8,7 @@
 3. manometer 气压表
 	***Hydraulic press 液压机***
 	![](../img/Screenshot_20250206-202905_微信.png)
-	- P equal,$\frac{F_小}{A_小}=\frac{F_大}{A_大}$
+	- $P =\frac{F_小}{A_小}=\frac{F_大}{A_大}$
 	- 不可以有气泡/气体，因为气体可压缩compressible
 	- 液压机使用油，因为油可以润滑减小摩擦,reduce friction
 	***Barometer 大气***
