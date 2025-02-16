@@ -13,7 +13,7 @@
 - $v=\frac{s}{t}$
 - $a=\frac{v}{t}$
 
-![alt distance-and-velocity](Screenshot_20250122-190104.png)
+![alt distance-and-velocity](../img/Screenshot_20250122-190104.png)
 ![alt clicle](Screenshot_20250122-190552.png)
 ![](Screenshot_20250122-191144.png)
 ![](Screenshot_20250122-191151.png)
