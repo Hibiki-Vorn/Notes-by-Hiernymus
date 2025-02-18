@@ -7,5 +7,6 @@
 7. [adopt](../words/adopt.md)
 8. [alongside](../words/alongside.md)
 9. [artificial](../words/artificial.md)
+10. [assessment](../words/assessment.md)
 
 
