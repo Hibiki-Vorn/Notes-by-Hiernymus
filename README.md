@@ -11,5 +11,5 @@
     2. Lesson 1 [skip](./articles/English-Lesson-1.md)
 - Physics lessons Noted
     1. Outline of Physics [skip](./articles/PhysicsOutline.md)
-- Mathematic
+- Mathematicz
 	1. Outline of Mathematic [skip](A-MATH-Outline.md)

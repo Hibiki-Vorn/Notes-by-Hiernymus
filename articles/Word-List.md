@@ -8,5 +8,8 @@
 8. [alongside](../words/alongside.md)
 9. [artificial](../words/artificial.md)
 10. [assessment](../words/assessment.md)
+11. [pyjama](../words/pyjama.md)
+12. [undergo](../words/undergo.md)
+13. [banquet](../words/banquet.md)
 
 
