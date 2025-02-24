@@ -12,4 +12,4 @@
 - Physics lessons Noted
     1. Outline of Physics [skip](./articles/PhysicsOutline.md)
 - Mathematicz
-	1. Outline of Mathematic [skip](A-MATH-Outline.md)
+	1. Outline of Mathematic [skip](./articles/A-MATH-Outline.md)
