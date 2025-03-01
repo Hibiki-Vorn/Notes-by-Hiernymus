@@ -1,7 +1,8 @@
 1. Base 基础[skip](./Physics-Lesson-4)
 2. Force 力 [skip](./Physics-Lesson-1.md)
 3. Heat 热 [skip](./Physics-Lesson-3.md)
-4. Wave 波
-5. Electromagnetism 电磁
-6. Radioactivity 放射性
+4. energy 能量 [skip](./Physics-Lesson-5.md)
+5. Wave 波
+6. Electromagnetism 电磁
+7. Radioactivity 放射性
 
