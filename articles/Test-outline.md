@@ -1,7 +1,3 @@
-- 2节英文(可能会加)
-- 1 物
-- 1 数
-
 - Poly
 	- L1
 		- language English

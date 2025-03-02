@@ -8,8 +8,13 @@
 8. [alongside](../words/alongside.md)
 9. [artificial](../words/artificial.md)
 10. [assessment](../words/assessment.md)
-11. [pyjama](../words/pyjama.md)
-12. [undergo](../words/undergo.md)
-13. [banquet](../words/banquet.md)
-
-
+11. [associated](../words/associated.md)
+12. [banquet](../words/banquet.md)
+13. [pyjama](../words/pyjama.md)
+14. [undergo](../words/undergo.md)
+15. [banquet](../words/banquet.md)
+16. [benefactor](../words/benefactor.md)
+17. [obligation](../words/obligation.md)
+18.  [pyjama](../words/pyjama.md)
+19.  [sinkhole](../words/sinkhole.md)
+20.  [undergo](../words/undergo.md)
