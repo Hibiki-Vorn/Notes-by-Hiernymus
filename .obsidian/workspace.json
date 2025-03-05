@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/Word-List.md",
-                "mode": "preview",
+                "file": "articles/A-M-5.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Word-List"
+              "title": "A-M-5"
             }
           }
         ],
@@ -195,9 +195,24 @@
   },
   "active": "a0af545a8ea07086",
   "lastOpenFiles": [
+    "articles/A-MATH-Outline.md",
+    "README.md",
+    "articles/A-M-5.md",
+    "img/inscribed-angle-1.svg",
+    "img/et.png",
+    "img/angle-tangent.svg",
+    "img/quadrilateral-cyclic-2.svg",
+    "img/inscribed-angle-2.svg",
+    "img/angle-semicircle-1.svg",
+    "img/exterior-angle-theorem.svg",
+    "img/triangle-isosceles.svg",
+    "img/triangle-180-proof.svg",
+    "img/angles-360.svg",
     "words/dwell.md",
-    "articles/WordsList.md",
+    "articles/A-M-4.md",
     "articles/Word-List.md",
+    "words/undergo.md",
+    "articles/WordsList.md",
     "articles/TODOLIST-everyday.md",
     "words/academic.md",
     "words/accept.md",
@@ -205,10 +220,8 @@
     "words/associated.md",
     "words/sinkhole.md",
     "words/annoying.md",
-    "articles/A-M-4.md",
     "articles/A-M-3.md",
     "articles/Test-outline.md",
-    "README.md",
     "articles/PhysicsOutline.md",
     "articles/Physics-Lesson-4.md",
     "articles/Physics-Lesson-5.md",
@@ -218,23 +231,10 @@
     "non-linked/Untitled.md",
     "non-linked/News.md",
     "articles/A-M-1.md",
-    "articles/A-MATH-Outline.md",
-    "i./articles/A-MATH-Outline.md",
     "i./articles",
     "i.",
     "non-linked",
-    "articles/A-M-2.md",
     "新建 文本文档.txt",
-    "img/Screenshot_20250206-204934_微信.png",
-    "img/Screenshot_20250206-202928_微信~2.png",
-    "img/Screenshot_20250206-203121_微信.png",
-    "img/Screenshot_20250206-202905_微信.png",
-    "img/Screenshot_20250206-202840_微信.png",
-    "img/Screenshot_20250206-202804_微信.png",
-    "img/Screenshot_20250205-134945_腾讯会议.png",
-    "img/Screenshot_20250122-191151.png",
-    "img/Screenshot_20250122-191144.png",
-    "img/Screenshot_20250122-190552.png",
     "Untitled.canvas"
   ]
 }
