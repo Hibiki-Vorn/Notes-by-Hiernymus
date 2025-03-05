@@ -47,7 +47,7 @@
 6. **Equal Tangents ($equal\ tan$)**  
    ![Equal Tangents](../img/et.png)
 7. **Equal Chords ($equal\ chord$)**  
-   ![Equal Chords](https://www.mathsisfun.com/geometry/images/equal-chords.gif)  
+   ![Equal Chords](../img/horda-65.png.webp)
 8. **Tangent-Chord Theorem ($tan\ chord\ thm$)**  
    ![Tangent-Chord Theorem](../img/geetha-alternate-segment-theorem-01-1609154966.png)
 
