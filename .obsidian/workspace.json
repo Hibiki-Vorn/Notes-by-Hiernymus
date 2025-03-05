@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/A-M-5.md",
+                "file": "articles/A-MATH-Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A-M-5"
+              "title": "A-MATH-Outline"
             }
           }
         ],
@@ -195,9 +195,9 @@
   },
   "active": "a0af545a8ea07086",
   "lastOpenFiles": [
-    "articles/A-MATH-Outline.md",
     "README.md",
     "articles/A-M-5.md",
+    "articles/A-MATH-Outline.md",
     "img/inscribed-angle-1.svg",
     "img/et.png",
     "img/angle-tangent.svg",

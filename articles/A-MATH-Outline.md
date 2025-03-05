@@ -9,5 +9,5 @@
 	- 通项公式
 - 对数[skip](./A-M-2.md)
 - 三角
-- 几何[skip](./A-M-5)
+- 几何[skip](./A-M-5.md)
 -  calculus
