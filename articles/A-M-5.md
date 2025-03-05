@@ -1,5 +1,5 @@
 几何
-- 园
+- 圆
 - 相似
 - 全等
 初数不设x,都能算出来
@@ -49,24 +49,16 @@
 7. **Equal Chords ($equal\ chord$)**  
    ![Equal Chords](https://www.mathsisfun.com/geometry/images/equal-chords.gif)  
 8. **Tangent-Chord Theorem ($tan\ chord\ thm$)**  
-   ![Tangent-Chord Theorem](https://www.mathsisfun.com/geometry/images/tangent-chord-theorem.gif)  
+   ![Tangent-Chord Theorem](../img/geetha-alternate-segment-theorem-01-1609154966.png)
 
 ---
 
 ## Congruent Triangles ($\equiv$)
-1. **SSS (Side-Side-Side)**  
-   ![SSS Congruence](https://www.mathsisfun.com/geometry/images/sss-congruence.gif)  
-2. **SAS (Side-Angle-Side)**  
-   ![SAS Congruence](https://www.mathsisfun.com/geometry/images/sas-congruence.gif)  
-3. **ASA (Angle-Side-Angle)**  
-   ![ASA Congruence](https://www.mathsisfun.com/geometry/images/asa-congruence.gif)  
+1. **SSS (Side-Side-Side)**
+2. **SAS (Side-Angle-Side)**
+3. **ASA (Angle-Side-Angle)**
 
 ---
 
 ## Similar Triangles
-1. **AA (Angle-Angle)**  
-   ![AA Similarity](https://www.mathsisfun.com/geometry/images/aa-similarity.gif)  
-
----
-
-Let me know if you need further adjustments or additional images!
+1. **AA (Angle-Angle)**

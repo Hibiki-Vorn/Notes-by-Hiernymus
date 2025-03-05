@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/A-MATH-Outline.md",
+                "file": "articles/A-M-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A-MATH-Outline"
+              "title": "A-M-5"
             }
           }
         ],
@@ -195,9 +195,11 @@
   },
   "active": "a0af545a8ea07086",
   "lastOpenFiles": [
-    "README.md",
-    "articles/A-M-5.md",
+    "img/geetha-alternate-segment-theorem-01-1609154966.png",
     "articles/A-MATH-Outline.md",
+    "README.md",
+    "words/dwell.md",
+    "articles/A-M-5.md",
     "img/inscribed-angle-1.svg",
     "img/et.png",
     "img/angle-tangent.svg",
@@ -208,7 +210,6 @@
     "img/triangle-isosceles.svg",
     "img/triangle-180-proof.svg",
     "img/angles-360.svg",
-    "words/dwell.md",
     "articles/A-M-4.md",
     "articles/Word-List.md",
     "words/undergo.md",
@@ -230,7 +231,6 @@
     "articles/Physics-Lesson-3.md",
     "non-linked/Untitled.md",
     "non-linked/News.md",
-    "articles/A-M-1.md",
     "i./articles",
     "i.",
     "non-linked",
