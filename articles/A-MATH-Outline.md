@@ -7,6 +7,6 @@
 	- 除法
 - 二项式[skip](./A-M-6.md)
 - 对数[skip](./A-M-2.md)
-- 三角
+- 三角[skip](./A-M-7.md)
 - 几何[skip](./A-M-5.md)
 -  calculus
