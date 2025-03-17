@@ -26,3 +26,11 @@
 2. $Speed\approx 340m/s$
 3. $pitch\Leftrightarrow f$
 4. $Loundness\Leftrightarrow A$
+
+- ***electromagnetic waves***($speed=3.0\times{10^{8}}\ m/s$)
+	- Radio $f_{small}$
+	- Microwave
+	- Infrared
+	- Ultraviolet <span style="color:red">ionising radiation 有害</span>
+	- x-ray
+	- $\gamma$-ray $f_{large}$
