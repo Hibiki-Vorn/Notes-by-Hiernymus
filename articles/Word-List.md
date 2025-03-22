@@ -32,3 +32,6 @@
 - [ ] [scarce](../words/scarce.md)
 - [ ] [reclamation](../words/reclamation.md)
 - [ ] [campong](../words/campong.md)
+- [ ] [urban](../words/urban.md)
+- [ ] [prevalence](../words/prevalence.md)
+- [ ] [addiction](../words/addiction.md)

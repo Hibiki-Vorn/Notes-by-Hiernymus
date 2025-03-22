@@ -20,14 +20,14 @@
 # Sounds
 
 1. $Audible\ range$
-	- $20Hz\ \to\ 20000Hz$
+	- Human's ear $20Hz\ \to\ 20000Hz$
 		- $infrasound<20Hz$
 		- $ultrasound>20000Hz$
 2. $Speed\approx 340m/s$
 3. $pitch\Leftrightarrow f$
 4. $Loundness\Leftrightarrow A$
 
-- ***electromagnetic waves***($speed=3.0\times{10^{8}}\ m/s$)
+- ******($speed=3.0\times{10^{8}}\ m/s$)
 	- Radio $f_{small}$
 	- Microwave
 	- Infrared
