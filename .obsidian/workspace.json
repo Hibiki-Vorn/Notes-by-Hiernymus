@@ -11,10 +11,14 @@
             "id": "c2e6fe6852747c9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "articles/Word-List.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Word-List"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "28295f8253f6296c",
@@ -176,32 +181,34 @@
   },
   "active": "c2e6fe6852747c9f",
   "lastOpenFiles": [
-    "articles/Physics-Lesson-6.md",
-    "Untitled.md",
-    "articles/PhysicsOutline.md",
-    "README.md",
-    "words/addiction.md",
+    "words/absorb.md",
     "articles/Word-List.md",
-    "words/prevalence.md",
-    "words/urban.md",
-    "articles/A-M-7.md",
-    "articles/A-MATH-Outline.md",
-    "words/campong.md",
-    "words/reclamation.md",
-    "words/scarce.md",
-    "words/scarcity.md",
-    "words/qualitative.md",
-    "words/absence.md",
-    "words/attendance.md",
-    "words/punishment.md",
-    "words/privacy.md",
+    "words/ailment.md",
+    "words/sickness.md",
+    "words/spoilt.md",
+    "words/hefty.md",
+    "words/bulky.md",
+    "words/vicinity.md",
     "words/bear.md",
-    "words/evacuation.md",
-    "words/accessible.md",
-    "words/cellist.md",
-    "words/beholder.md",
-    "words/roan.md",
-    "words/soak.md",
+    "words/essential.md",
+    "words/dispersal.md",
+    "words/susceptible.md",
+    "words/multifaceted.md",
+    "words/complicate.md",
+    "words/ecological.md",
+    "words/rodents.md",
+    "words/toxins.md",
+    "words/rigid.md",
+    "words/backyards.md",
+    "words/clog.md",
+    "words/prohibit.md",
+    "words/log.md",
+    "words/sapling.md",
+    "words/germinate.md",
+    "words/shady.md",
+    "words/scarcity.md",
+    "Untitled.canvas",
+    "words/pristinemd",
     "img/horda-65.png.webp",
     "img/geetha-alternate-segment-theorem-01-1609154966.png",
     "img/inscribed-angle-1.svg",
@@ -215,7 +222,6 @@
     "i./articles",
     "i.",
     "non-linked",
-    "新建 文本文档.txt",
-    "Untitled.canvas"
+    "新建 文本文档.txt"
   ]
 }
