@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0a310d85c3d1ce74",
+        "id": "f571b49141b7b057",
         "type": "tabs",
         "children": [
           {
-            "id": "c2e6fe6852747c9f",
+            "id": "7911a9838fcd33e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/Word-List.md",
-                "mode": "preview",
+                "file": "articles/A-M-8.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Word-List"
+              "title": "A-M-8"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "28295f8253f6296c",
@@ -179,11 +178,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2e6fe6852747c9f",
+  "active": "7911a9838fcd33e7",
   "lastOpenFiles": [
-    "words/absorb.md",
-    "articles/Word-List.md",
+    "articles/A-MATH-Outline.md",
+    "articles/A-M-8.md",
+    "README.md",
     "words/ailment.md",
+    "articles/Word-List.md",
+    "articles/English-Lesson-1.md",
+    "articles/A-M-2.md",
+    "articles/PhysicsOutline.md",
+    "articles/Physics-Lesson-3.md",
+    "words/achievement.md",
+    "words/absorb.md",
     "words/sickness.md",
     "words/spoilt.md",
     "words/hefty.md",
@@ -199,14 +206,6 @@
     "words/rodents.md",
     "words/toxins.md",
     "words/rigid.md",
-    "words/backyards.md",
-    "words/clog.md",
-    "words/prohibit.md",
-    "words/log.md",
-    "words/sapling.md",
-    "words/germinate.md",
-    "words/shady.md",
-    "words/scarcity.md",
     "Untitled.canvas",
     "words/pristinemd",
     "img/horda-65.png.webp",
