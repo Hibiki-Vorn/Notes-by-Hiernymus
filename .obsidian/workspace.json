@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/A-M-8.md",
+                "file": "articles/Physics-Lesson-7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A-M-8"
+              "title": "Physics-Lesson-7"
+            }
+          },
+          {
+            "id": "4e90f4e8c6d30b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "articles/PhysicsOutline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PhysicsOutline"
             }
           }
         ]
@@ -180,14 +194,22 @@
   },
   "active": "7911a9838fcd33e7",
   "lastOpenFiles": [
-    "articles/A-MATH-Outline.md",
-    "articles/A-M-8.md",
+    "articles/PhysicsOutline.md",
     "README.md",
+    "articles/Physics-Lesson-7.md",
+    "articles/Physics-Lesson-6.md",
+    "articles/A-M-7.md",
+    "articles/A-MATH-Outline.md",
+    "articles/A-M-1.md",
+    "articles/A-M-2.md",
+    "articles/A-M-3.md",
+    "articles/A-M-4.md",
+    "articles/A-M-5.md",
+    "articles/A-M-6.md",
+    "articles/A-M-8.md",
     "words/ailment.md",
     "articles/Word-List.md",
     "articles/English-Lesson-1.md",
-    "articles/A-M-2.md",
-    "articles/PhysicsOutline.md",
     "articles/Physics-Lesson-3.md",
     "words/achievement.md",
     "words/absorb.md",
@@ -198,14 +220,6 @@
     "words/vicinity.md",
     "words/bear.md",
     "words/essential.md",
-    "words/dispersal.md",
-    "words/susceptible.md",
-    "words/multifaceted.md",
-    "words/complicate.md",
-    "words/ecological.md",
-    "words/rodents.md",
-    "words/toxins.md",
-    "words/rigid.md",
     "Untitled.canvas",
     "words/pristinemd",
     "img/horda-65.png.webp",
