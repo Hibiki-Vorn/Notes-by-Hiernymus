@@ -1,4 +1,6 @@
-***differentiate 求导***
+# differentiate 求导
+
+## formular
 ***
 - $\frac{dy}{dx}=\frac{d}{dx} {y}=\frac{d}{dx} {f(x)}$ 1st derivative 一阶导数
 - $\frac{d^{2}y}{dx^{2}}=\frac{d^2}{dx^2} {y}=\frac{d^2}{dx^2} {f(x)}$ 2ed derivative 二阶导数
@@ -15,3 +17,13 @@
 ---
 *Chain Rule 链式法则*
 - $\frac{dy}{dx} = \frac{dy}{du} \cdot \frac{du}{dx}$
+
+## Application
+
+1. find tangent/normal
+2. find monotonicity
+3. find stationary
+	1. Maxima (Maximun point)
+	2. Minima (Minimum point)
+	3. point of inflexion
+4. find rate of change

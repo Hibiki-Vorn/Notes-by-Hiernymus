@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f571b49141b7b057",
+        "id": "6c78d7fe1447ee01",
         "type": "tabs",
         "children": [
           {
-            "id": "7911a9838fcd33e7",
+            "id": "617fb469c0af8c70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/Physics-Lesson-7.md",
-                "mode": "source",
+                "file": "articles/Word-List.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physics-Lesson-7"
-            }
-          },
-          {
-            "id": "4e90f4e8c6d30b04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "articles/PhysicsOutline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PhysicsOutline"
+              "title": "Word-List"
             }
           }
         ]
@@ -192,34 +178,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7911a9838fcd33e7",
+  "active": "617fb469c0af8c70",
   "lastOpenFiles": [
-    "articles/PhysicsOutline.md",
     "README.md",
     "articles/Physics-Lesson-7.md",
-    "articles/Physics-Lesson-6.md",
-    "articles/A-M-7.md",
+    "articles/PhysicsOutline.md",
+    "Untitled.md",
+    "articles/Word-List.md",
+    "articles/A-M-8.md",
     "articles/A-MATH-Outline.md",
+    "articles/A-M-5.md",
+    "articles/A-M-7.md",
+    "words/backyards.md",
+    "words/gleeful.md",
+    "Untitled",
+    "words/prohibit.md",
+    "words/modification.md",
+    "words/affordable.md",
+    "words/urban.md",
+    "words/biases.md",
+    "words/contrast.md",
+    "words/spoilt.md",
+    "words/meritocracy.md",
+    "words/absorb.md",
+    "articles/Physics-Lesson-6.md",
     "articles/A-M-1.md",
     "articles/A-M-2.md",
     "articles/A-M-3.md",
     "articles/A-M-4.md",
-    "articles/A-M-5.md",
     "articles/A-M-6.md",
-    "articles/A-M-8.md",
-    "words/ailment.md",
-    "articles/Word-List.md",
-    "articles/English-Lesson-1.md",
-    "articles/Physics-Lesson-3.md",
-    "words/achievement.md",
-    "words/absorb.md",
-    "words/sickness.md",
-    "words/spoilt.md",
-    "words/hefty.md",
-    "words/bulky.md",
-    "words/vicinity.md",
-    "words/bear.md",
-    "words/essential.md",
     "Untitled.canvas",
     "words/pristinemd",
     "img/horda-65.png.webp",
