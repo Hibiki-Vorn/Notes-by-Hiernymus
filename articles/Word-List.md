@@ -133,3 +133,6 @@
 - [ ] [overwhelmed](../words/overwhelmed.md) 
 - [ ] [wails](../words/wails.md) 
 - [ ] [distress](../words/distress.md) 
+- [ ] [everlasting](../words/everlasting.md) 
+- [ ] [resurrection](../words/resurrection.md) 
+- [ ] [infested](../words/infested.md) 

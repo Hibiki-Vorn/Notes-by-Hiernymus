@@ -27,3 +27,6 @@
 	2. Minima (Minimum point)
 	3. point of inflexion
 4. find rate of change
+	1. $\frac{dy}{dx}$ rate of change of x with respect to x
+	2. rate of change of x $\frac{dy}{dt}=\frac{dy}{dx}\cdot\frac{dx}{dt}$
+	3. 
