@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "words/infested.md",
+                "file": "words/frighten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "infested"
+              "title": "frighten"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/WordsList.md",
+                "file": "words/frighten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WordsList"
+              "title": "Backlinks for frighten"
             }
           },
           {
@@ -159,8 +159,7 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,12 +179,24 @@
   },
   "active": "617fb469c0af8c70",
   "lastOpenFiles": [
+    "words/outrage.md",
+    "words/frighten.md",
+    "words/disgust.md",
+    "words/indignation.md",
+    "words/revulsion.md",
     "articles/Word-List.md",
+    "Untitled.canvas",
+    "words/reindustrialize.md",
+    "README.md",
+    "words/wilderness.md",
+    "words/scratch.md",
+    "words/settlers.md",
+    "words/venture.md",
+    "words/immigrants.md",
     "words/infested.md",
     "words/prosperous.md",
     "words/resurrection.md",
     "words/everlasting.md",
-    "README.md",
     "articles/A-M-5.md",
     "articles/A-MATH-Outline.md",
     "articles/Physics-Lesson-8.md",
@@ -196,20 +207,8 @@
     "words/dwell.md",
     "words/adopt.md",
     "words/absorb.md",
-    "words/assessment.md",
-    "words/artificial.md",
-    "articles/A-M-8.md",
-    "articles/A-M-7.md",
-    "words/distress.md",
-    "words/wails.md",
-    "words/overwhelmed.md",
-    "words/vulnerable.md",
-    "words/bowel.md",
-    "words/evince.md",
-    "words/unearthly.md",
     "words/showcase",
     "Untitled",
-    "Untitled.canvas",
     "words/pristinemd",
     "img/horda-65.png.webp",
     "img/geetha-alternate-segment-theorem-01-1609154966.png",
