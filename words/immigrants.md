@@ -18,7 +18,7 @@
        3. expatriate 侨民（常指暂时移居国外者）  
        4. migrant 移民，流动人口（含暂时性质）
     
-4. **Antonym**  
+- **Antonym**  
      - _n._ (移民):  
        1. native 本地人  
        2. citizen 公民（常指出生或合法拥有国籍者）  

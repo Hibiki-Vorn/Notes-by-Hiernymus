@@ -16,7 +16,7 @@
 	- 1. immerse 浸入  
 	- 2. saturate 浸透  
 	- 3. drench 湿透  
-	- 4. absorb 吸收  
+	- 4. absorb 吸收 
 	- 5. steep 浸泡  
 
 4. **Antonym**  

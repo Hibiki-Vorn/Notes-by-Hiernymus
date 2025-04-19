@@ -1,1 +1,6 @@
-{}
+{
+	"nodes":[
+		{"id":"bfee2e4a2defe20f","x":-62,"y":-43,"width":250,"height":60,"type":"text","text":"Metal Health"}
+	],
+	"edges":[]
+}

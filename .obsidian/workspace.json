@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6c78d7fe1447ee01",
+        "id": "d3b33d3869531921",
         "type": "tabs",
         "children": [
           {
-            "id": "617fb469c0af8c70",
+            "id": "5955dace34e2f407",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "words/frighten.md",
+                "file": "articles/Physics-Lesson-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "frighten"
+              "title": "Physics-Lesson-10"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "words/frighten.md",
+                "file": "articles/Physics-Lesson-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for frighten"
+              "title": "Backlinks for Physics-Lesson-10"
             }
           },
           {
@@ -177,38 +177,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "617fb469c0af8c70",
+  "active": "5955dace34e2f407",
   "lastOpenFiles": [
+    "articles/Physics-Lesson-9.md",
+    "articles/Physics-Lesson-8.md",
+    "articles/Physics-Lesson-10.md",
+    "README.md",
+    "Untitled.canvas",
+    "articles/HLAI.md",
+    "articles/Physics-Lesson-7.md",
+    "articles/A-M-6.md",
+    "articles/PhysicsOutline.md",
+    "articles/Physics-Lesson-4.md",
+    "words/immigrants.md",
+    "articles/English-mistake-notes/2025-04-16.md",
+    "articles/English-mistake-notes",
+    "Untitled",
+    "words/unkempt.md",
+    "articles/Word-List.md",
+    "words/affordable.md",
     "words/outrage.md",
     "words/frighten.md",
     "words/disgust.md",
     "words/indignation.md",
     "words/revulsion.md",
-    "articles/Word-List.md",
-    "Untitled.canvas",
     "words/reindustrialize.md",
-    "README.md",
     "words/wilderness.md",
     "words/scratch.md",
     "words/settlers.md",
     "words/venture.md",
-    "words/immigrants.md",
     "words/infested.md",
     "words/prosperous.md",
-    "words/resurrection.md",
-    "words/everlasting.md",
-    "articles/A-M-5.md",
-    "articles/A-MATH-Outline.md",
-    "articles/Physics-Lesson-8.md",
     "articles/Untitled.canvas",
-    "articles/Physics-Lesson-2.2.md",
-    "articles/Physics-Lesson-7.md",
-    "words/sinkhole.md",
-    "words/dwell.md",
-    "words/adopt.md",
-    "words/absorb.md",
     "words/showcase",
-    "Untitled",
     "words/pristinemd",
     "img/horda-65.png.webp",
     "img/geetha-alternate-segment-theorem-01-1609154966.png",
