@@ -14,18 +14,18 @@
 
 3. **Synonym**  
 	- *v.*:  
-			1. howls 嚎叫  
-			2. cries 哭泣  
-			3. moans 呻吟  
+		1. howls 嚎叫  
+		2. cries 哭泣  
+		3. moans 呻吟  
 	- *n.*:  
-			1. shrieks 尖叫  
-			2. screams 尖叫声  
-			3. lamentations 哀悼  
+		1. shrieks 尖叫  
+		2. screams 尖叫声  
+		3. lamentations 哀悼  
 
-4. **Antonym**  
+5. **Antonym**  
 	- *v.*:  
-			1. laughs 笑  
-			2. rejoices 欢喜  
+		1. laughs 笑  
+		2. rejoices 欢喜  
 	- *n.*:  
-			1. silence 寂静  
-			2. cheers 欢呼  
+		1. silence 寂静  
+		2. cheers 欢呼  
